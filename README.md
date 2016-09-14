@@ -1,2 +1,2 @@
 # FirstMVC
-# My first project using MVC on C#
+# My first project using MVC on C Sharp
